@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Temporary / Scratch files
+scratch/
+pdf_text.txt
+*.log.part
+
+# OS artifacts
+Thumbs.db
+.DS_Store

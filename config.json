@@ -1,0 +1,59 @@
+{
+  "stream": {
+    "source": "data/record_20250620_190928.mp4",
+    "is_rtsp": false,
+    "rtsp_transport": "tcp",
+    "reconnect_interval_sec": 3,
+    "max_reconnect_attempts": 10,
+    "target_fps": 25,
+    "resize_width": 960,
+    "resize_height": 540
+  },
+  "detection": {
+    "model_name": "buffalo_sc",
+    "framework": "insightface",
+    "det_size": [
+      640,
+      480
+    ],
+    "confidence_threshold": 0.25,
+    "min_face_size": [
+      12,
+      12
+    ],
+    "frame_skip": 5,
+    "nms_threshold": 0.4
+  },
+  "recognition": {
+    "model_name": "arcface",
+    "embedding_dim": 512,
+    "similarity_threshold": 0.5,
+    "embedding_update_weight": 0.15,
+    "min_quality_score": 0.35
+  },
+  "tracking": {
+    "tracker_type": "iou_kalman",
+    "max_missing_frames": 50,
+    "min_hits_to_confirm": 1,
+    "iou_threshold": 0.05
+  },
+  "logging": {
+    "log_dir": "logs",
+    "events_log_file": "logs/events.log",
+    "entries_folder": "logs/entries",
+    "exits_folder": "logs/exits",
+    "save_cropped_images": true,
+    "crop_padding_ratio": 0.25,
+    "jpeg_quality": 85
+  },
+  "database": {
+    "db_path": "database/visitors.db",
+    "enable_wal_mode": true
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "enable_dashboard": true,
+    "stream_quality": 65
+  }
+}
