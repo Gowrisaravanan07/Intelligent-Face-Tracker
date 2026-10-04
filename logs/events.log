@@ -35221,3 +35221,278 @@
 [2026-10-03 22:08:41.827] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 11.00s | Frame: 8402 | Image: logs/exits/2026-10-03/VISITOR_0052_220836_479_exit.jpg
 [2026-10-03 22:08:44.829] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.94s | Frame: 8476 | Image: logs/exits/2026-10-03/VISITOR_0296_220841_423_exit.jpg
 [2026-10-03 22:08:45.914] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.68s | Frame: 8498 | Image: logs/exits/2026-10-03/VISITOR_0296_220842_432_exit.jpg
+[2026-10-03 22:09:41.233] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8472) | Count not incremented | Frame: 9547
+[2026-10-03 22:09:41.235] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 9547 | Image: logs/entries/2026-10-03/VISITOR_0077_220940_982_entry.jpg
+[2026-10-03 22:09:44.404] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9420) | Count not incremented | Frame: 9588
+[2026-10-03 22:09:44.405] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 9588 | Image: logs/entries/2026-10-03/VISITOR_0052_220943_934_entry.jpg
+[2026-10-03 22:09:52.346] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 9743
+[2026-10-03 22:09:52.349] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 9743 | Image: logs/entries/2026-10-03/VISITOR_0297_220952_130_entry.jpg
+[2026-10-03 22:09:54.588] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.9172) | Count not incremented | Frame: 9792
+[2026-10-03 22:09:54.589] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (300,127,323,157) | Confidence: 0.32 | Frame: 9792 | Image: logs/entries/2026-10-03/VISITOR_0296_220954_468_entry.jpg
+[2026-10-03 22:09:54.763] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 9.06s | Frame: 9798 | Image: logs/exits/2026-10-03/VISITOR_0077_220950_046_exit.jpg
+[2026-10-03 22:09:56.144] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 9832 | Image: logs/exits/2026-10-03/VISITOR_0297_220952_130_exit.jpg
+[2026-10-03 22:09:56.774] [INFO] [VisitorTracker] [FACE:SEARCH] No matching identity found (Max Sim: 0.4747) -> Generating new registration
+[2026-10-03 22:09:56.774] [INFO] [VisitorTracker] [FACE:REGISTER] Auto-registered new visitor VISITOR_0298 | Embedding: 512-D ArcFace | Quality: 0.32 | Frame: 9846
+[2026-10-03 22:09:56.775] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 9846 | Image: logs/entries/2026-10-03/VISITOR_0298_220956_648_entry.jpg
+[2026-10-03 22:09:57.748] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 10.53s | Frame: 9873 | Image: logs/exits/2026-10-03/VISITOR_0052_220954_468_exit.jpg
+[2026-10-03 22:10:02.753] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 1.97s | Frame: 9982 | Image: logs/exits/2026-10-03/VISITOR_0298_220958_614_exit.jpg
+[2026-10-03 22:10:04.512] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 5.22s | Frame: 10019 | Image: logs/exits/2026-10-03/VISITOR_0296_220959_687_exit.jpg
+[2026-10-03 22:11:10.497] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8876) | Count not incremented | Frame: 11048
+[2026-10-03 22:11:10.498] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 11048 | Image: logs/entries/2026-10-03/VISITOR_0077_221110_270_entry.jpg
+[2026-10-03 22:11:17.757] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0015 (Cosine Sim: 0.6084) | Count not incremented | Frame: 11157
+[2026-10-03 22:11:17.758] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0015 ENTERED frame at pos (171,261,206,300) | Confidence: 0.25 | Frame: 11157 | Image: logs/entries/2026-10-03/VISITOR_0015_221117_493_entry.jpg
+[2026-10-03 22:11:27.258] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7712) | Count not incremented | Frame: 11293
+[2026-10-03 22:11:27.260] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (287,133,312,164) | Confidence: 0.25 | Frame: 11293 | Image: logs/entries/2026-10-03/VISITOR_0077_221126_917_entry.jpg
+[2026-10-03 22:11:28.931] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0015 EXITED frame | Dwell Duration: 2.84s | Frame: 11310 | Image: logs/exits/2026-10-03/VISITOR_0015_221120_333_exit.jpg
+[2026-10-03 22:11:29.771] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.6780) | Count not incremented | Frame: 11320
+[2026-10-03 22:11:29.773] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 11320 | Image: logs/entries/2026-10-03/VISITOR_0296_221129_510_entry.jpg
+[2026-10-03 22:11:35.045] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 11408 | Image: logs/exits/2026-10-03/VISITOR_0077_221126_917_exit.jpg
+[2026-10-03 22:11:38.579] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 21.11s | Frame: 11456 | Image: logs/exits/2026-10-03/VISITOR_0077_221131_378_exit.jpg
+[2026-10-03 22:11:42.991] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 5.98s | Frame: 11521 | Image: logs/exits/2026-10-03/VISITOR_0296_221135_493_exit.jpg
+[2026-10-03 22:12:51.514] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9092) | Count not incremented | Frame: 12548
+[2026-10-03 22:12:51.516] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 12548 | Image: logs/entries/2026-10-03/VISITOR_0077_221251_189_entry.jpg
+[2026-10-03 22:12:53.982] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9578) | Count not incremented | Frame: 12589
+[2026-10-03 22:12:53.985] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 12589 | Image: logs/entries/2026-10-03/VISITOR_0052_221253_734_entry.jpg
+[2026-10-03 22:13:01.323] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 2.55s | Frame: 12694 | Image: logs/exits/2026-10-03/VISITOR_0077_221253_734_exit.jpg
+[2026-10-03 22:13:01.872] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.6799) | Count not incremented | Frame: 12699
+[2026-10-03 22:13:01.877] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (167,264,201,302) | Confidence: 0.26 | Frame: 12699 | Image: logs/entries/2026-10-03/VISITOR_0052_221301_534_entry.jpg
+[2026-10-03 22:13:04.807] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 12744
+[2026-10-03 22:13:04.809] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 12744 | Image: logs/entries/2026-10-03/VISITOR_0297_221304_604_entry.jpg
+[2026-10-03 22:13:07.845] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8173) | Count not incremented | Frame: 12793
+[2026-10-03 22:13:07.878] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (287,133,312,164) | Confidence: 0.25 | Frame: 12793 | Image: logs/entries/2026-10-03/VISITOR_0077_221307_610_entry.jpg
+[2026-10-03 22:13:09.662] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7999) | Count not incremented | Frame: 12820
+[2026-10-03 22:13:09.670] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (347,90,369,118) | Confidence: 0.35 | Frame: 12820 | Image: logs/entries/2026-10-03/VISITOR_0077_221309_395_entry.jpg
+[2026-10-03 22:13:10.308] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 0.60s | Frame: 12831 | Image: logs/exits/2026-10-03/VISITOR_0052_221302_130_exit.jpg
+[2026-10-03 22:13:15.615] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.74s | Frame: 12895 | Image: logs/exits/2026-10-03/VISITOR_0297_221306_345_exit.jpg
+[2026-10-03 22:13:16.849] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 12915 | Image: logs/exits/2026-10-03/VISITOR_0077_221307_610_exit.jpg
+[2026-10-03 22:13:19.530] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 1.75s | Frame: 12957 | Image: logs/exits/2026-10-03/VISITOR_0077_221311_144_exit.jpg
+[2026-10-03 22:13:23.975] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 23.26s | Frame: 13025 | Image: logs/exits/2026-10-03/VISITOR_0052_221316_998_exit.jpg
+[2026-10-03 22:14:32.637] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8649) | Count not incremented | Frame: 14047
+[2026-10-03 22:14:32.742] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 14047 | Image: logs/entries/2026-10-03/VISITOR_0077_221432_331_entry.jpg
+[2026-10-03 22:14:35.002] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9533) | Count not incremented | Frame: 14089
+[2026-10-03 22:14:35.004] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 14089 | Image: logs/entries/2026-10-03/VISITOR_0052_221434_766_entry.jpg
+[2026-10-03 22:14:51.847] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0295 (Cosine Sim: 1.0000) | Count not incremented | Frame: 14267
+[2026-10-03 22:14:51.849] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0295 ENTERED frame at pos (32,175,54,209) | Confidence: 0.25 | Frame: 14267 | Image: logs/entries/2026-10-03/VISITOR_0295_221451_216_entry.jpg
+[2026-10-03 22:14:53.710] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7325) | Count not incremented | Frame: 14291
+[2026-10-03 22:14:53.750] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (288,128,312,158) | Confidence: 0.28 | Frame: 14291 | Image: logs/entries/2026-10-03/VISITOR_0077_221453_456_entry.jpg
+[2026-10-03 22:14:56.463] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 11.49s | Frame: 14329 | Image: logs/exits/2026-10-03/VISITOR_0077_221443_824_exit.jpg
+[2026-10-03 22:14:57.675] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 1.0000) | Count not incremented | Frame: 14345
+[2026-10-03 22:14:57.677] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 14345 | Image: logs/entries/2026-10-03/VISITOR_0298_221457_230_entry.jpg
+[2026-10-03 22:15:02.374] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0295 EXITED frame | Dwell Duration: 0.10s | Frame: 14402 | Image: logs/exits/2026-10-03/VISITOR_0295_221451_216_exit.jpg
+[2026-10-03 22:15:03.935] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 14422 | Image: logs/exits/2026-10-03/VISITOR_0077_221453_456_exit.jpg
+[2026-10-03 22:15:07.051] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 14466 | Image: logs/exits/2026-10-03/VISITOR_0298_221457_230_exit.jpg
+[2026-10-03 22:15:09.387] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 28.96s | Frame: 14526 | Image: logs/exits/2026-10-03/VISITOR_0052_221503_730_exit.jpg
+[2026-10-03 22:15:56.231] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8919) | Count not incremented | Frame: 15547
+[2026-10-03 22:15:56.232] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 15547 | Image: logs/entries/2026-10-03/VISITOR_0077_221556_063_entry.jpg
+[2026-10-03 22:15:57.940] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9661) | Count not incremented | Frame: 15588
+[2026-10-03 22:15:57.942] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 15588 | Image: logs/entries/2026-10-03/VISITOR_0052_221557_780_entry.jpg
+[2026-10-03 22:16:06.342] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0295 (Cosine Sim: 1.0000) | Count not incremented | Frame: 15769
+[2026-10-03 22:16:06.344] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0295 ENTERED frame at pos (32,175,54,209) | Confidence: 0.25 | Frame: 15769 | Image: logs/entries/2026-10-03/VISITOR_0295_221606_158_entry.jpg
+[2026-10-03 22:16:07.239] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8397) | Count not incremented | Frame: 15792
+[2026-10-03 22:16:07.242] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (287,133,312,164) | Confidence: 0.25 | Frame: 15792 | Image: logs/entries/2026-10-03/VISITOR_0077_221607_104_entry.jpg
+[2026-10-03 22:16:07.796] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 7.41s | Frame: 15805 | Image: logs/exits/2026-10-03/VISITOR_0077_221603_473_exit.jpg
+[2026-10-03 22:16:09.853] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 1.0000) | Count not incremented | Frame: 15847
+[2026-10-03 22:16:09.859] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 15847 | Image: logs/entries/2026-10-03/VISITOR_0298_221609_680_entry.jpg
+[2026-10-03 22:16:11.215] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0295 EXITED frame | Dwell Duration: 0.10s | Frame: 15882 | Image: logs/exits/2026-10-03/VISITOR_0295_221606_158_exit.jpg
+[2026-10-03 22:16:12.045] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 15902 | Image: logs/exits/2026-10-03/VISITOR_0077_221607_104_exit.jpg
+[2026-10-03 22:16:14.644] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 15947 | Image: logs/exits/2026-10-03/VISITOR_0298_221609_680_exit.jpg
+[2026-10-03 22:16:17.597] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 15.11s | Frame: 16019 | Image: logs/exits/2026-10-03/VISITOR_0052_221612_894_exit.jpg
+[2026-10-03 22:17:16.649] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9037) | Count not incremented | Frame: 17049
+[2026-10-03 22:17:16.655] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 17049 | Image: logs/entries/2026-10-03/VISITOR_0077_221716_429_entry.jpg
+[2026-10-03 22:17:18.734] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9754) | Count not incremented | Frame: 17090
+[2026-10-03 22:17:18.745] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 17090 | Image: logs/entries/2026-10-03/VISITOR_0052_221718_516_entry.jpg
+[2026-10-03 22:17:27.421] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 17245
+[2026-10-03 22:17:27.423] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 17245 | Image: logs/entries/2026-10-03/VISITOR_0297_221727_191_entry.jpg
+[2026-10-03 22:17:31.936] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 8.75s | Frame: 17317 | Image: logs/exits/2026-10-03/VISITOR_0077_221725_180_exit.jpg
+[2026-10-03 22:17:33.573] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 1.0000) | Count not incremented | Frame: 17349
+[2026-10-03 22:17:33.575] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 17349 | Image: logs/entries/2026-10-03/VISITOR_0298_221733_310_entry.jpg
+[2026-10-03 22:17:34.397] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 17366 | Image: logs/exits/2026-10-03/VISITOR_0297_221727_191_exit.jpg
+[2026-10-03 22:17:41.004] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 17468 | Image: logs/exits/2026-10-03/VISITOR_0298_221733_310_exit.jpg
+[2026-10-03 22:17:43.454] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 18.50s | Frame: 17524 | Image: logs/exits/2026-10-03/VISITOR_0052_221737_014_exit.jpg
+[2026-10-03 22:18:29.244] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8674) | Count not incremented | Frame: 18548
+[2026-10-03 22:18:29.245] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 18548 | Image: logs/entries/2026-10-03/VISITOR_0077_221829_152_entry.jpg
+[2026-10-03 22:18:33.235] [INFO] [VisitorTracker] [FACE:SEARCH] No matching identity found (Max Sim: 0.4831) -> Generating new registration
+[2026-10-03 22:18:33.236] [INFO] [VisitorTracker] [FACE:REGISTER] Auto-registered new visitor VISITOR_0299 | Embedding: 512-D ArcFace | Quality: 0.27 | Frame: 18648
+[2026-10-03 22:18:33.237] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0299 ENTERED frame at pos (177,256,211,295) | Confidence: 0.27 | Frame: 18648 | Image: logs/entries/2026-10-03/VISITOR_0299_221833_136_entry.jpg
+[2026-10-03 22:18:37.093] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 18745
+[2026-10-03 22:18:37.095] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 18745 | Image: logs/entries/2026-10-03/VISITOR_0297_221837_005_entry.jpg
+[2026-10-03 22:18:38.066] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0299 EXITED frame | Dwell Duration: 2.28s | Frame: 18770 | Image: logs/exits/2026-10-03/VISITOR_0299_221835_416_exit.jpg
+[2026-10-03 22:18:39.069] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8971) | Count not incremented | Frame: 18794
+[2026-10-03 22:18:39.070] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 18794 | Image: logs/entries/2026-10-03/VISITOR_0296_221838_962_entry.jpg
+[2026-10-03 22:18:40.183] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.7500) | Count not incremented | Frame: 18821
+[2026-10-03 22:18:40.185] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 18821 | Image: logs/entries/2026-10-03/VISITOR_0296_221840_045_entry.jpg
+[2026-10-03 22:18:40.931] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.05s | Frame: 18841 | Image: logs/exits/2026-10-03/VISITOR_0297_221838_051_exit.jpg
+[2026-10-03 22:18:41.912] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 9.81s | Frame: 18865 | Image: logs/exits/2026-10-03/VISITOR_0077_221838_962_exit.jpg
+[2026-10-03 22:18:45.422] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.20s | Frame: 18954 | Image: logs/exits/2026-10-03/VISITOR_0296_221843_161_exit.jpg
+[2026-10-03 22:18:46.825] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.20s | Frame: 18984 | Image: logs/exits/2026-10-03/VISITOR_0296_221844_241_exit.jpg
+[2026-10-03 22:19:29.436] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9027) | Count not incremented | Frame: 20050
+[2026-10-03 22:19:29.437] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 20050 | Image: logs/entries/2026-10-03/VISITOR_0077_221929_348_entry.jpg
+[2026-10-03 22:19:31.137] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9822) | Count not incremented | Frame: 20092
+[2026-10-03 22:19:31.138] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 20092 | Image: logs/entries/2026-10-03/VISITOR_0052_221931_028_entry.jpg
+[2026-10-03 22:19:37.305] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 20247
+[2026-10-03 22:19:37.306] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 20247 | Image: logs/entries/2026-10-03/VISITOR_0297_221937_212_entry.jpg
+[2026-10-03 22:19:38.184] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 4.60s | Frame: 20270 | Image: logs/exits/2026-10-03/VISITOR_0052_221935_626_exit.jpg
+[2026-10-03 22:19:39.250] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8168) | Count not incremented | Frame: 20296
+[2026-10-03 22:19:39.252] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (287,133,312,164) | Confidence: 0.25 | Frame: 20296 | Image: logs/entries/2026-10-03/VISITOR_0077_221939_173_entry.jpg
+[2026-10-03 22:19:39.844] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 20311 | Image: logs/exits/2026-10-03/VISITOR_0297_221937_212_exit.jpg
+[2026-10-03 22:19:47.116] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 4.46s | Frame: 20481 | Image: logs/exits/2026-10-03/VISITOR_0077_221943_630_exit.jpg
+[2026-10-03 22:19:48.461] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 15.55s | Frame: 20508 | Image: logs/exits/2026-10-03/VISITOR_0077_221944_897_exit.jpg
+[2026-10-03 22:20:30.684] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9103) | Count not incremented | Frame: 21553
+[2026-10-03 22:20:30.685] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 21553 | Image: logs/entries/2026-10-03/VISITOR_0077_222030_609_entry.jpg
+[2026-10-03 22:20:32.557] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9871) | Count not incremented | Frame: 21594
+[2026-10-03 22:20:32.559] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 21594 | Image: logs/entries/2026-10-03/VISITOR_0052_222032_439_entry.jpg
+[2026-10-03 22:20:38.750] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 21749
+[2026-10-03 22:20:38.753] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 21749 | Image: logs/entries/2026-10-03/VISITOR_0297_222038_635_entry.jpg
+[2026-10-03 22:20:39.913] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 6.43s | Frame: 21780 | Image: logs/exits/2026-10-03/VISITOR_0077_222037_036_exit.jpg
+[2026-10-03 22:20:40.719] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.9112) | Count not incremented | Frame: 21798
+[2026-10-03 22:20:40.720] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 21798 | Image: logs/entries/2026-10-03/VISITOR_0296_222040_605_entry.jpg
+[2026-10-03 22:20:41.759] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.7965) | Count not incremented | Frame: 21825
+[2026-10-03 22:20:41.763] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 21825 | Image: logs/entries/2026-10-03/VISITOR_0296_222041_669_entry.jpg
+[2026-10-03 22:20:42.493] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.04s | Frame: 21844 | Image: logs/exits/2026-10-03/VISITOR_0297_222039_670_exit.jpg
+[2026-10-03 22:20:43.370] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 8.17s | Frame: 21866 | Image: logs/exits/2026-10-03/VISITOR_0052_222040_605_exit.jpg
+[2026-10-03 22:20:45.241] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 2.18s | Frame: 21913 | Image: logs/exits/2026-10-03/VISITOR_0296_222042_785_exit.jpg
+[2026-10-03 22:20:48.231] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.19s | Frame: 21988 | Image: logs/exits/2026-10-03/VISITOR_0296_222045_857_exit.jpg
+[2026-10-03 22:21:33.232] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9019) | Count not incremented | Frame: 23054
+[2026-10-03 22:21:33.233] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 23054 | Image: logs/entries/2026-10-03/VISITOR_0077_222133_167_entry.jpg
+[2026-10-03 22:21:34.933] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9907) | Count not incremented | Frame: 23096
+[2026-10-03 22:21:34.934] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 23096 | Image: logs/entries/2026-10-03/VISITOR_0052_222134_850_entry.jpg
+[2026-10-03 22:21:41.120] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 23251
+[2026-10-03 22:21:41.121] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 23251 | Image: logs/entries/2026-10-03/VISITOR_0297_222141_034_entry.jpg
+[2026-10-03 22:21:41.977] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 4.59s | Frame: 23273 | Image: logs/exits/2026-10-03/VISITOR_0052_222139_439_exit.jpg
+[2026-10-03 22:21:43.096] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.9146) | Count not incremented | Frame: 23300
+[2026-10-03 22:21:43.097] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 23300 | Image: logs/entries/2026-10-03/VISITOR_0296_222143_003_entry.jpg
+[2026-10-03 22:21:44.188] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8267) | Count not incremented | Frame: 23327
+[2026-10-03 22:21:44.189] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 23327 | Image: logs/entries/2026-10-03/VISITOR_0296_222144_080_entry.jpg
+[2026-10-03 22:21:44.844] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.06s | Frame: 23344 | Image: logs/exits/2026-10-03/VISITOR_0297_222142_093_exit.jpg
+[2026-10-03 22:21:45.663] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 9.84s | Frame: 23365 | Image: logs/exits/2026-10-03/VISITOR_0077_222143_003_exit.jpg
+[2026-10-03 22:21:46.621] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 1.15s | Frame: 23389 | Image: logs/exits/2026-10-03/VISITOR_0296_222144_154_exit.jpg
+[2026-10-03 22:21:47.279] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 0.6553) | Count not incremented | Frame: 23405
+[2026-10-03 22:21:47.280] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (413,47,430,72) | Confidence: 0.30 | Frame: 23405 | Image: logs/entries/2026-10-03/VISITOR_0298_222147_191_entry.jpg
+[2026-10-03 22:21:49.538] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 23463 | Image: logs/exits/2026-10-03/VISITOR_0298_222147_191_exit.jpg
+[2026-10-03 22:21:50.573] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.19s | Frame: 23488 | Image: logs/exits/2026-10-03/VISITOR_0296_222148_267_exit.jpg
+[2026-10-03 22:22:41.234] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9283) | Count not incremented | Frame: 24556
+[2026-10-03 22:22:41.241] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 24556 | Image: logs/entries/2026-10-03/VISITOR_0077_222241_006_entry.jpg
+[2026-10-03 22:22:46.061] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0015 (Cosine Sim: 0.7032) | Count not incremented | Frame: 24666
+[2026-10-03 22:22:46.063] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0015 ENTERED frame at pos (171,261,206,300) | Confidence: 0.25 | Frame: 24666 | Image: logs/entries/2026-10-03/VISITOR_0015_222245_907_entry.jpg
+[2026-10-03 22:22:49.638] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 24753
+[2026-10-03 22:22:49.640] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 24753 | Image: logs/entries/2026-10-03/VISITOR_0297_222249_466_entry.jpg
+[2026-10-03 22:22:51.621] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7994) | Count not incremented | Frame: 24802
+[2026-10-03 22:22:51.625] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (287,133,312,164) | Confidence: 0.25 | Frame: 24802 | Image: logs/entries/2026-10-03/VISITOR_0077_222251_456_entry.jpg
+[2026-10-03 22:22:52.483] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0015 EXITED frame | Dwell Duration: 1.94s | Frame: 24820 | Image: logs/exits/2026-10-03/VISITOR_0015_222247_847_exit.jpg
+[2026-10-03 22:22:54.238] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 0.9929) | Count not incremented | Frame: 24857
+[2026-10-03 22:22:54.239] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 24857 | Image: logs/entries/2026-10-03/VISITOR_0298_222253_935_entry.jpg
+[2026-10-03 22:22:54.487] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 24867 | Image: logs/exits/2026-10-03/VISITOR_0297_222249_466_exit.jpg
+[2026-10-03 22:22:55.731] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 24895 | Image: logs/exits/2026-10-03/VISITOR_0077_222251_456_exit.jpg
+[2026-10-03 22:22:57.796] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 24939 | Image: logs/exits/2026-10-03/VISITOR_0298_222253_935_exit.jpg
+[2026-10-03 22:23:01.306] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 16.20s | Frame: 25019 | Image: logs/exits/2026-10-03/VISITOR_0077_222257_206_exit.jpg
+[2026-10-03 22:23:48.849] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9098) | Count not incremented | Frame: 26059
+[2026-10-03 22:23:48.850] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 26059 | Image: logs/entries/2026-10-03/VISITOR_0077_222348_775_entry.jpg
+[2026-10-03 22:23:51.017] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9932) | Count not incremented | Frame: 26100
+[2026-10-03 22:23:51.020] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 26100 | Image: logs/entries/2026-10-03/VISITOR_0052_222350_848_entry.jpg
+[2026-10-03 22:23:57.990] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 26255
+[2026-10-03 22:23:57.991] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 26255 | Image: logs/entries/2026-10-03/VISITOR_0297_222357_836_entry.jpg
+[2026-10-03 22:24:00.435] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 7.36s | Frame: 26312 | Image: logs/exits/2026-10-03/VISITOR_0077_222356_132_exit.jpg
+[2026-10-03 22:24:02.051] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7600) | Count not incremented | Frame: 26331
+[2026-10-03 22:24:02.053] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (347,90,369,118) | Confidence: 0.35 | Frame: 26331 | Image: logs/entries/2026-10-03/VISITOR_0077_222401_777_entry.jpg
+[2026-10-03 22:24:03.325] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 26360 | Image: logs/exits/2026-10-03/VISITOR_0297_222357_836_exit.jpg
+[2026-10-03 22:24:05.929] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 26422 | Image: logs/exits/2026-10-03/VISITOR_0077_222401_777_exit.jpg
+[2026-10-03 22:24:15.130] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 15.55s | Frame: 26537 | Image: logs/exits/2026-10-03/VISITOR_0052_222406_398_exit.jpg
+[2026-10-03 22:25:03.782] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.8989) | Count not incremented | Frame: 27560
+[2026-10-03 22:25:03.783] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 27560 | Image: logs/entries/2026-10-03/VISITOR_0077_222503_620_entry.jpg
+[2026-10-03 22:25:05.690] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9951) | Count not incremented | Frame: 27602
+[2026-10-03 22:25:05.691] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 27602 | Image: logs/entries/2026-10-03/VISITOR_0052_222505_546_entry.jpg
+[2026-10-03 22:25:12.300] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 27757
+[2026-10-03 22:25:12.303] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 27757 | Image: logs/entries/2026-10-03/VISITOR_0297_222512_131_entry.jpg
+[2026-10-03 22:25:14.773] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.7808) | Count not incremented | Frame: 27807
+[2026-10-03 22:25:14.775] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (300,127,323,157) | Confidence: 0.32 | Frame: 27807 | Image: logs/entries/2026-10-03/VISITOR_0296_222514_690_entry.jpg
+[2026-10-03 22:25:15.193] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 6.84s | Frame: 27817 | Image: logs/exits/2026-10-03/VISITOR_0077_222510_456_exit.jpg
+[2026-10-03 22:25:15.845] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8395) | Count not incremented | Frame: 27833
+[2026-10-03 22:25:15.845] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 27833 | Image: logs/entries/2026-10-03/VISITOR_0296_222515_724_entry.jpg
+[2026-10-03 22:25:16.970] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.33s | Frame: 27862 | Image: logs/exits/2026-10-03/VISITOR_0297_222513_460_exit.jpg
+[2026-10-03 22:25:17.952] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 9.14s | Frame: 27885 | Image: logs/exits/2026-10-03/VISITOR_0052_222514_690_exit.jpg
+[2026-10-03 22:25:20.242] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 2.14s | Frame: 27940 | Image: logs/exits/2026-10-03/VISITOR_0296_222516_833_exit.jpg
+[2026-10-03 22:25:23.725] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.35s | Frame: 28019 | Image: logs/exits/2026-10-03/VISITOR_0296_222520_079_exit.jpg
+[2026-10-03 22:26:15.790] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9170) | Count not incremented | Frame: 29062
+[2026-10-03 22:26:15.791] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 29062 | Image: logs/entries/2026-10-03/VISITOR_0077_222615_693_entry.jpg
+[2026-10-03 22:26:17.409] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9965) | Count not incremented | Frame: 29103
+[2026-10-03 22:26:17.410] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 29103 | Image: logs/entries/2026-10-03/VISITOR_0052_222617_327_entry.jpg
+[2026-10-03 22:26:23.833] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 29258
+[2026-10-03 22:26:23.834] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 29258 | Image: logs/entries/2026-10-03/VISITOR_0297_222623_705_entry.jpg
+[2026-10-03 22:26:25.317] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 4.59s | Frame: 29297 | Image: logs/exits/2026-10-03/VISITOR_0052_222621_922_exit.jpg
+[2026-10-03 22:26:25.779] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8866) | Count not incremented | Frame: 29307
+[2026-10-03 22:26:25.780] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 29307 | Image: logs/entries/2026-10-03/VISITOR_0296_222625_661_entry.jpg
+[2026-10-03 22:26:26.915] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8577) | Count not incremented | Frame: 29334
+[2026-10-03 22:26:26.922] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 29334 | Image: logs/entries/2026-10-03/VISITOR_0296_222626_776_entry.jpg
+[2026-10-03 22:26:27.772] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.04s | Frame: 29358 | Image: logs/exits/2026-10-03/VISITOR_0297_222624_747_exit.jpg
+[2026-10-03 22:26:28.967] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 9.97s | Frame: 29386 | Image: logs/exits/2026-10-03/VISITOR_0077_222625_661_exit.jpg
+[2026-10-03 22:26:32.576] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.28s | Frame: 29477 | Image: logs/exits/2026-10-03/VISITOR_0296_222629_946_exit.jpg
+[2026-10-03 22:26:33.667] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.25s | Frame: 29504 | Image: logs/exits/2026-10-03/VISITOR_0296_222631_023_exit.jpg
+[2026-10-04 10:53:02.609] [INFO] [VisitorTracker] ====================================================================
+[2026-10-04 10:53:02.610] [INFO] [VisitorTracker] Visitor Tracking & Face Recognition Pipeline Initialized
+[2026-10-04 10:53:02.610] [INFO] [VisitorTracker] Log File: D:\katomaran hackathon\logs\events.log
+[2026-10-04 10:53:02.610] [INFO] [VisitorTracker] ====================================================================
+[2026-10-04 10:53:03.051] [INFO] [VisitorTracker] [FaceRecognizer] Loaded 299 registered visitor embeddings from DB.
+[2026-10-04 10:53:09.530] [INFO] [VisitorTracker] [Pipeline] Face Tracker Pipeline started (Optimized Smooth Playback & Accuracy).
+[2026-10-04 11:05:26.971] [INFO] [VisitorTracker] ====================================================================
+[2026-10-04 11:05:26.971] [INFO] [VisitorTracker] Visitor Tracking & Face Recognition Pipeline Initialized
+[2026-10-04 11:05:26.972] [INFO] [VisitorTracker] Log File: D:\katomaran hackathon\logs\events.log
+[2026-10-04 11:05:26.972] [INFO] [VisitorTracker] ====================================================================
+[2026-10-04 11:05:27.317] [INFO] [VisitorTracker] [FaceRecognizer] Loaded 299 registered visitor embeddings from DB.
+[2026-10-04 11:05:32.201] [INFO] [VisitorTracker] [Pipeline] Face Tracker Pipeline started (Optimized Smooth Playback & Accuracy).
+[2026-10-04 11:05:56.595] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9205) | Count not incremented | Frame: 532
+[2026-10-04 11:05:56.607] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 532 | Image: logs/entries/2026-10-04/VISITOR_0077_110556_363_entry.jpg
+[2026-10-04 11:05:58.475] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9974) | Count not incremented | Frame: 574
+[2026-10-04 11:05:58.476] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 574 | Image: logs/entries/2026-10-04/VISITOR_0052_110558_328_entry.jpg
+[2026-10-04 11:06:07.017] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0295 (Cosine Sim: 1.0000) | Count not incremented | Frame: 755
+[2026-10-04 11:06:07.028] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0295 ENTERED frame at pos (32,175,54,209) | Confidence: 0.25 | Frame: 755 | Image: logs/entries/2026-10-04/VISITOR_0295_110606_896_entry.jpg
+[2026-10-04 11:06:07.977] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8914) | Count not incremented | Frame: 778
+[2026-10-04 11:06:07.979] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 778 | Image: logs/entries/2026-10-04/VISITOR_0296_110607_854_entry.jpg
+[2026-10-04 11:06:07.984] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 7.51s | Frame: 778 | Image: logs/exits/2026-10-04/VISITOR_0077_110603_877_exit.jpg
+[2026-10-04 11:06:09.087] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8689) | Count not incremented | Frame: 805
+[2026-10-04 11:06:09.088] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 805 | Image: logs/entries/2026-10-04/VISITOR_0296_110608_938_entry.jpg
+[2026-10-04 11:06:10.984] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0295 EXITED frame | Dwell Duration: 0.10s | Frame: 844 | Image: logs/exits/2026-10-04/VISITOR_0295_110606_896_exit.jpg
+[2026-10-04 11:06:12.269] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 9.53s | Frame: 869 | Image: logs/exits/2026-10-04/VISITOR_0052_110607_854_exit.jpg
+[2026-10-04 11:06:15.953] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.93s | Frame: 960 | Image: logs/exits/2026-10-04/VISITOR_0296_110612_779_exit.jpg
+[2026-10-04 11:06:17.165] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 4.72s | Frame: 984 | Image: logs/exits/2026-10-04/VISITOR_0296_110613_654_exit.jpg
+[2026-10-04 11:07:00.209] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9421) | Count not incremented | Frame: 2034
+[2026-10-04 11:07:00.210] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 2034 | Image: logs/entries/2026-10-04/VISITOR_0077_110700_119_entry.jpg
+[2026-10-04 11:07:02.023] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9982) | Count not incremented | Frame: 2076
+[2026-10-04 11:07:02.024] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 2076 | Image: logs/entries/2026-10-04/VISITOR_0052_110701_865_entry.jpg
+[2026-10-04 11:07:08.430] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 2231
+[2026-10-04 11:07:08.432] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 2231 | Image: logs/entries/2026-10-04/VISITOR_0297_110708_339_entry.jpg
+[2026-10-04 11:07:10.081] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 6.59s | Frame: 2270 | Image: logs/exits/2026-10-04/VISITOR_0077_110706_706_exit.jpg
+[2026-10-04 11:07:10.624] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.6737) | Count not incremented | Frame: 2281
+[2026-10-04 11:07:10.625] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (288,128,312,158) | Confidence: 0.28 | Frame: 2281 | Image: logs/entries/2026-10-04/VISITOR_0077_110710_468_entry.jpg
+[2026-10-04 11:07:12.357] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.7643) | Count not incremented | Frame: 2307
+[2026-10-04 11:07:12.358] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (347,90,369,118) | Confidence: 0.35 | Frame: 2307 | Image: logs/entries/2026-10-04/VISITOR_0077_110712_146_entry.jpg
+[2026-10-04 11:07:12.885] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 2321 | Image: logs/exits/2026-10-04/VISITOR_0297_110708_339_exit.jpg
+[2026-10-04 11:07:14.624] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 0.10s | Frame: 2366 | Image: logs/exits/2026-10-04/VISITOR_0077_110710_468_exit.jpg
+[2026-10-04 11:07:19.004] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 3.16s | Frame: 2464 | Image: logs/exits/2026-10-04/VISITOR_0077_110715_303_exit.jpg
+[2026-10-04 11:07:20.070] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 14.33s | Frame: 2491 | Image: logs/exits/2026-10-04/VISITOR_0052_110716_195_exit.jpg
+[2026-10-04 11:08:02.284] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9023) | Count not incremented | Frame: 3537
+[2026-10-04 11:08:02.285] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (54,404,92,452) | Confidence: 0.27 | Frame: 3537 | Image: logs/entries/2026-10-04/VISITOR_0077_110802_186_entry.jpg
+[2026-10-04 11:08:04.000] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0052 (Cosine Sim: 0.9987) | Count not incremented | Frame: 3578
+[2026-10-04 11:08:04.002] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0052 ENTERED frame at pos (153,266,187,306) | Confidence: 0.39 | Frame: 3578 | Image: logs/entries/2026-10-04/VISITOR_0052_110803_847_entry.jpg
+[2026-10-04 11:08:11.177] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 3733
+[2026-10-04 11:08:11.178] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 3733 | Image: logs/entries/2026-10-04/VISITOR_0297_110811_017_entry.jpg
+[2026-10-04 11:08:12.830] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 7.23s | Frame: 3774 | Image: logs/exits/2026-10-04/VISITOR_0077_110809_418_exit.jpg
+[2026-10-04 11:08:15.081] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 0.10s | Frame: 3820 | Image: logs/exits/2026-10-04/VISITOR_0297_110811_017_exit.jpg
+[2026-10-04 11:08:15.722] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0298 (Cosine Sim: 0.9949) | Count not incremented | Frame: 3837
+[2026-10-04 11:08:15.723] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0298 ENTERED frame at pos (404,93,423,121) | Confidence: 0.32 | Frame: 3837 | Image: logs/entries/2026-10-04/VISITOR_0298_110815_607_entry.jpg
+[2026-10-04 11:08:19.110] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0298 EXITED frame | Dwell Duration: 0.10s | Frame: 3917 | Image: logs/exits/2026-10-04/VISITOR_0298_110815_607_exit.jpg
+[2026-10-04 11:08:22.837] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0052 EXITED frame | Dwell Duration: 14.55s | Frame: 3997 | Image: logs/exits/2026-10-04/VISITOR_0052_110818_399_exit.jpg
+[2026-10-04 11:09:06.800] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0077 (Cosine Sim: 0.9142) | Count not incremented | Frame: 5038
+[2026-10-04 11:09:06.804] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0077 ENTERED frame at pos (51,407,91,456) | Confidence: 0.27 | Frame: 5038 | Image: logs/entries/2026-10-04/VISITOR_0077_110906_311_entry.jpg
+[2026-10-04 11:09:12.765] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0015 (Cosine Sim: 0.7777) | Count not incremented | Frame: 5148
+[2026-10-04 11:09:12.770] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0015 ENTERED frame at pos (171,261,206,300) | Confidence: 0.25 | Frame: 5148 | Image: logs/entries/2026-10-04/VISITOR_0015_110912_638_entry.jpg
+[2026-10-04 11:09:17.621] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0297 (Cosine Sim: 1.0000) | Count not incremented | Frame: 5235
+[2026-10-04 11:09:17.622] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0297 ENTERED frame at pos (2,220,25,257) | Confidence: 0.30 | Frame: 5235 | Image: logs/entries/2026-10-04/VISITOR_0297_110917_509_entry.jpg
+[2026-10-04 11:09:19.702] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8932) | Count not incremented | Frame: 5284
+[2026-10-04 11:09:19.703] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (298,129,321,160) | Confidence: 0.29 | Frame: 5284 | Image: logs/entries/2026-10-04/VISITOR_0296_110919_551_entry.jpg
+[2026-10-04 11:09:19.704] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0015 EXITED frame | Dwell Duration: 2.69s | Frame: 5284 | Image: logs/exits/2026-10-04/VISITOR_0015_110915_326_exit.jpg
+[2026-10-04 11:09:20.775] [INFO] [VisitorTracker] [FACE:RECOGNIZE] Re-identified visitor VISITOR_0296 (Cosine Sim: 0.8759) | Count not incremented | Frame: 5311
+[2026-10-04 11:09:20.778] [INFO] [VisitorTracker] [EVENT:ENTRY] Visitor VISITOR_0296 ENTERED frame at pos (358,88,377,114) | Confidence: 0.26 | Frame: 5311 | Image: logs/entries/2026-10-04/VISITOR_0296_110920_656_entry.jpg
+[2026-10-04 11:09:22.679] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0297 EXITED frame | Dwell Duration: 1.14s | Frame: 5355 | Image: logs/exits/2026-10-04/VISITOR_0297_110918_652_exit.jpg
+[2026-10-04 11:09:24.123] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0077 EXITED frame | Dwell Duration: 13.24s | Frame: 5383 | Image: logs/exits/2026-10-04/VISITOR_0077_110919_551_exit.jpg
+[2026-10-04 11:09:27.063] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 2.22s | Frame: 5437 | Image: logs/exits/2026-10-04/VISITOR_0296_110921_773_exit.jpg
+[2026-10-04 11:09:30.691] [INFO] [VisitorTracker] [EVENT:EXIT] Visitor VISITOR_0296 EXITED frame | Dwell Duration: 5.00s | Frame: 5504 | Image: logs/exits/2026-10-04/VISITOR_0296_110925_655_exit.jpg
